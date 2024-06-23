@@ -4,25 +4,36 @@ This Android mobile app allows users to manage their tasks efficiently. Users ca
 
 ## Screenshots
 
-
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin: 10px;">
-        <img src="spash-screen.png" alt="Splash Screen" width="300" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <div style="flex: 1 1 calc(50% - 20px); margin: 10px;">
+        <a target="_blank" rel="noopener noreferrer" href="/chiragpgauswami/todo-app/blob/master/spash-screen.png">
+            <img src="/chiragpgauswami/todo-app/raw/master/spash-screen.png" alt="Splash Screen" width="300" style="max-width: 100%;">
+        </a>
     </div>
-    <div style="flex: 1; margin: 10px;">
-        <img src="login.png" alt="Login Screen" width="300" />
+    <div style="flex: 1 1 calc(50% - 20px); margin: 10px;">
+        <a target="_blank" rel="noopener noreferrer" href="/chiragpgauswami/todo-app/blob/master/login.png">
+            <img src="/chiragpgauswami/todo-app/raw/master/login.png" alt="Login Screen" width="300" style="max-width: 100%;">
+        </a>
     </div>
-    <div style="flex: 1; margin: 10px;">
-        <img src="about.png" alt="About Page" width="300" />
+    <div style="flex: 1 1 calc(50% - 20px); margin: 10px;">
+        <a target="_blank" rel="noopener noreferrer" href="/chiragpgauswami/todo-app/blob/master/about.png">
+            <img src="/chiragpgauswami/todo-app/raw/master/about.png" alt="About Page" width="300" style="max-width: 100%;">
+        </a>
     </div>
-    <div style="flex: 1; margin: 10px;">
-        <img src="home.png" alt="Task List" width="300" />
+    <div style="flex: 1 1 calc(50% - 20px); margin: 10px;">
+        <a target="_blank" rel="noopener noreferrer" href="/chiragpgauswami/todo-app/blob/master/home.png">
+            <img src="/chiragpgauswami/todo-app/raw/master/home.png" alt="Task List" width="300" style="max-width: 100%;">
+        </a>
     </div>
-    <div style="flex: 1; margin: 10px;">
-        <img src="search.png" alt="Search Task" width="300" />
+    <div style="flex: 1 1 calc(50% - 20px); margin: 10px;">
+        <a target="_blank" rel="noopener noreferrer" href="/chiragpgauswami/todo-app/blob/master/search.png">
+            <img src="/chiragpgauswami/todo-app/raw/master/search.png" alt="Search Task" width="300" style="max-width: 100%;">
+        </a>
     </div>
-    <div style="flex: 1; margin: 10px;">
-        <img src="dark-mode.png" alt="Dark Mode" width="300" />
+    <div style="flex: 1 1 calc(50% - 20px); margin: 10px;">
+        <a target="_blank" rel="noopener noreferrer" href="/chiragpgauswami/todo-app/blob/master/dark-mode.png">
+            <img src="/chiragpgauswami/todo-app/raw/master/dark-mode.png" alt="Dark Mode" width="300" style="max-width: 100%;">
+        </a>
     </div>
 </div>
 

@@ -5,11 +5,17 @@ This Android mobile app allows users to manage their tasks efficiently. Users ca
 ## Screenshots
 
 <img src="spash-screen.png" alt="Splash Screen" height="500" />
+<br/>
 <img src="login.png" alt="Login Screen" height="500" />
+<br/>
 <img src="about.png" alt="About Page" height="500" />
+<br/>
 <img src="home.png" alt="Task List" height="500" />
+<br/>
 <img src="search.png" alt="Search Task" height="500" />
+<br/>
 <img src="dark-mode.png" alt="Dark Mode" height="500" />
+<br/>
 
 ## Tech Stack
 

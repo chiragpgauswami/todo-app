@@ -4,12 +4,28 @@ This Android mobile app allows users to manage their tasks efficiently. Users ca
 
 ## Screenshots
 
-![Splash Screen](spash-screen.png)
-![Login Screen](login.png)
-![About Page](about.png)
-![Task List](home.png)
-![Search Task](search.png)
-![Dark Mode](dark-mode.png)
+
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin: 10px;">
+        <img src="spash-screen.png" alt="Splash Screen" width="300" />
+    </div>
+    <div style="flex: 1; margin: 10px;">
+        <img src="login.png" alt="Login Screen" width="300" />
+    </div>
+    <div style="flex: 1; margin: 10px;">
+        <img src="about.png" alt="About Page" width="300" />
+    </div>
+    <div style="flex: 1; margin: 10px;">
+        <img src="home.png" alt="Task List" width="300" />
+    </div>
+    <div style="flex: 1; margin: 10px;">
+        <img src="search.png" alt="Search Task" width="300" />
+    </div>
+    <div style="flex: 1; margin: 10px;">
+        <img src="dark-mode.png" alt="Dark Mode" width="300" />
+    </div>
+</div>
+
 
 ## Tech Stack
 

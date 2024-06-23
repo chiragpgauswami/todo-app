@@ -63,12 +63,8 @@ Contributions are welcome! If you find any issues or want to add new features, p
 
 This project was created by Chirag P. Gauswami.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Links
 
 - [Source Code](https://github.com/chiragpgauswami/todo-app)
-- [Demo](https://github.comTodo.apk)
+- [Demo](https://github.com/chiragpgauswami/todo-app/raw/master/Todo.apk)
 

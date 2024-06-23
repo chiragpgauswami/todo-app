@@ -4,39 +4,12 @@ This Android mobile app allows users to manage their tasks efficiently. Users ca
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="flex: 1 1 calc(50% - 20px); margin: 10px;">
-        <a target="_blank" rel="noopener noreferrer" href="/chiragpgauswami/todo-app/blob/master/spash-screen.png">
-            <img src="spash-screen.png" alt="Splash Screen" width="300" style="max-width: 100%;">
-        </a>
-    </div>
-    <div style="flex: 1 1 calc(50% - 20px); margin: 10px;">
-        <a target="_blank" rel="noopener noreferrer" href="/chiragpgauswami/todo-app/blob/master/login.png">
-            <img src="login.png" alt="Login Screen" width="300" style="max-width: 100%;">
-        </a>
-    </div>
-    <div style="flex: 1 1 calc(50% - 20px); margin: 10px;">
-        <a target="_blank" rel="noopener noreferrer" href="/chiragpgauswami/todo-app/blob/master/about.png">
-            <img src="about.png" alt="About Page" width="300" style="max-width: 100%;">
-        </a>
-    </div>
-    <div style="flex: 1 1 calc(50% - 20px); margin: 10px;">
-        <a target="_blank" rel="noopener noreferrer" href="/chiragpgauswami/todo-app/blob/master/home.png">
-            <img src="home.png" alt="Task List" width="300" style="max-width: 100%;">
-        </a>
-    </div>
-    <div style="flex: 1 1 calc(50% - 20px); margin: 10px;">
-        <a target="_blank" rel="noopener noreferrer" href="/chiragpgauswami/todo-app/blob/master/search.png">
-            <img src="search.png" alt="Search Task" width="300" style="max-width: 100%;">
-        </a>
-    </div>
-    <div style="flex: 1 1 calc(50% - 20px); margin: 10px;">
-        <a target="_blank" rel="noopener noreferrer" href="/chiragpgauswami/todo-app/blob/master/dark-mode.png">
-            <img src="dark-mode.png" alt="Dark Mode" width="300" style="max-width: 100%;">
-        </a>
-    </div>
-</div>
-
+<img src="spash-screen.png" alt="Splash Screen" height="500" />
+<img src="login.png" alt="Login Screen" height="500" />
+<img src="about.png" alt="About Page" height="500" />
+<img src="home.png" alt="Task List" height="500" />
+<img src="search.png" alt="Search Task" height="500" />
+<img src="dark-mode.png" alt="Dark Mode" height="500" />
 
 ## Tech Stack
 
